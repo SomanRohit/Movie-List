@@ -1,0 +1,92 @@
+.bgcol{
+    background-color: #15131e !important;
+}
+body{
+    font-family: poppins(sans-serif) !important;
+}
+.toptenbtn{
+    background-color: #572cd6 !important;
+    color: white;
+    margin-top: 10px;
+    padding: 11px 34px !important;
+}
+.addmovies{
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #572cd6 !important;
+    color: white;
+    margin-top: 10px;
+    padding: 11px 34px !important;
+}
+.topcolor{
+    color: white;
+    font-size: 18px;
+}
+.movies-logo{
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 2em;
+}
+.movies-div{
+    background-color: rgb(0 0 0);
+}
+.allcenter{
+    width: 75%;
+    margin: 0 auto;
+}
+.movieName{
+    text-align: center;
+    color: white;
+}
+.movieName1{
+    color: white;
+}
+.centerbuttons{
+    text-align: center;
+}
+.like-btn{
+    border: 1px solid #fff;
+    background: transparent;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 50%;
+}
+.dislike-btn{
+    border: none;
+    background: transparent;
+    color: white;
+    padding: 2px 8px;
+}
+.details{
+    color: white;
+    border: 4px solid #572cd6;
+}
+.details-div{
+    text-align: center;
+    padding: 24px 0px;
+}
+hr{
+    background-color: #665d5d;
+}
+.all_back{
+    background-color: rgb(26 26 26);
+}
+.viewbutton{
+    background-color: rgb(43 43 43);
+    color: #572cd6;
+    padding: 3px 60px;
+    margin: 10px 0px;
+    border: none;
+}
+.searchinput{
+    float: right;
+    margin: 11px 16px;
+    padding: 13px;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+    border: 1px solid #572cd6;
+    box-shadow: 0px 0px 4px white;
+}
